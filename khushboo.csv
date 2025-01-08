@@ -1,0 +1,27 @@
+DEPARTMENT_ID,DEPARTMENT_NAME,MANAGER_ID,LOCATION_ID
+10,AdministrationAdministration,200200,3400.0
+30,Purchasing,114,1700.0
+40,Human Resources,203,0.0
+50,Shipping,121,1500.0
+60,IT,103,1400.0
+70,Public Relations,204,2700.0
+80,Sales,145,2500.0
+90,Executive,100,1700.0
+100,Finance,108,0.0
+110,Accounting,205,1700.0
+120,Treasury, - ,1700.0
+130,Corporate Tax, - ,1700.0
+140,Control And Credit, - ,1700.0
+150,Shareholder Services, - ,1700.0
+160,Benefits, - ,1700.0
+170,Manufacturing, - ,1700.0
+180,Construction, - ,1700.0
+190,Contracting, - ,1700.0
+200,Operations, - ,1700.0
+210,IT Support, - ,1700.0
+220,NOC, - ,1700.0
+230,IT Helpdesk, - ,1700.0
+240,Government Sales, - ,1700.0
+250,Retail Sales, - ,1700.0
+260,Recruiting, - ,1700.0
+270,Payroll, - ,1700.0
